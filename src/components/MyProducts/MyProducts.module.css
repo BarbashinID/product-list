@@ -1,0 +1,16 @@
+.table {
+    border-collapse: collapse;
+    text-align: center;
+}
+.table tbody tr td {
+    border-color: black;
+    border: 2px solid black;
+    text-align: start;
+    padding: 5px;
+}
+.filter {
+    margin: 10px;
+}
+.filters_group{
+    margin-left: 200px;
+}

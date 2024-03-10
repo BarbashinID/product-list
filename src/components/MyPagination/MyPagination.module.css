@@ -1,0 +1,15 @@
+.button_group{
+    display: flex;
+    gap: 10px;
+    margin-top: 15px;
+}
+.btn{
+    display: flex;
+    gap: 5px;
+}
+.page__current{
+    border: 3px solid teal;
+}
+.page{
+    border: 1px solid black;
+}
